@@ -28,7 +28,7 @@
 ## 🚀 Projetos
 
 - 🚧 **SIRC (em desenvolvimento)**  
-  Sistema voltado para gerenciamento e controle de planejador agrícola (detalhes em breve)
+  Sistema voltado para gerenciamento e controle de planejamento agrícola (detalhes em breve)
   
 
 - 🤖 **IA para Jogos de Tabuleiro (Objetivos acadêmicos)**  
