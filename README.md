@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Seja Bem vindo 👋, eu sou Ricardo</h1>
 
-<!--
-**RicardoColli/RicardoColli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Estudante de Ciência da Computação 
+🚀 Focado em Python e projetos práticos   
+🌱 Sempre aprendendo coisas novas  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias
+- Python (Pandas e NumPy)
+- C
+- PostgreSQL
+- Elasticsearch
+- Java
+- JavaScript
+  
+
+---
+
+## 🚀 Projetos
+- 📊 Dashboard de eleições com Elasticsearch
+- 🤖 Implementações de IA em jogos de tabuleiro
+- 📱 SIRC
+
+---
+
+## 📫 Contato
+- Email: ricardodolcicolli@gmail.com / ricardocolli717@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ricardo-colli-b4ab1829b
