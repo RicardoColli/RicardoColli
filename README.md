@@ -27,6 +27,10 @@
 
 ## 🚀 Projetos
 
+- 🌾 **Satellite NDVI (em desenvolvimento)**  
+ Sistema web para análise agrícola utilizando imagens de satélite Sentinel-2 e cálculo de NDVI em tempo real.
+
+
 - 🚧 **SIRC (em desenvolvimento)**  
   Sistema voltado para gerenciamento e controle de planejamento agrícola (detalhes em breve)
   
