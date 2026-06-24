@@ -14,9 +14,17 @@
 - C
 - Java
 - JavaScript
+- TypeScript
+
+**Desenvolvimento Web**
+-Next.js
+-React
+-HTML
+-CSS
 
 **Banco de Dados**
 - PostgreSQL
+- Supabase
 - Elasticsearch
 
 **Bibliotecas**
