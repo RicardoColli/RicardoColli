@@ -17,10 +17,10 @@
 - TypeScript
 
 **Desenvolvimento Web**
--Next.js
--React
--HTML
--CSS
+- Next.js
+- React
+- HTML
+- CSS
 
 **Banco de Dados**
 - PostgreSQL
